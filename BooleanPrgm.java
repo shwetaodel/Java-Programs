@@ -17,8 +17,7 @@ public class BooleanPrgm {
 		System.out.println(50>20);
 
 		System.out.println(10==10);
-	//	System.out.println((10).equalto);
-
+	
 
 
 	}
